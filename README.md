@@ -1,1 +1,1 @@
-# mock-workshop for whatever-dev-ws
+mock-workshop for whatever-dev-ws
